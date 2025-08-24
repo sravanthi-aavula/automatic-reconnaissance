@@ -1,0 +1,14 @@
+{
+  "smtp": {
+    "host": "smtp.gmail.com",
+    "port": "587",
+    "username": "sravanthiaavula30@gmail.com",
+    "password": "yykfuzoeclmfncgi",
+    "use_tls": true,
+    "from_email": "sravanthiaavula30@gmail.com",
+    "to_email": "sravanthiyadavv30@gmail.com"
+  },
+  "apis": {
+    "shodan_api_key": "PCv4vJolc6DmZlRbyA5dLUifp3HpwaSt"
+  }
+}

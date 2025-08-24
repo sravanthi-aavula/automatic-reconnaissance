@@ -1,0 +1,9 @@
+whois
+dnspython
+requests
+beautifulsoup4
+builtwith
+cryptography
+selenium
+fpdf
+pillow
